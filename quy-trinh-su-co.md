@@ -4,7 +4,7 @@
 
 Tài liệu này được xây dựng nhằm **chuẩn hóa các bước tiếp nhận, phân loại, phối hợp và xử lý yêu cầu kỹ thuật nội bộ** của đơn vị.
 
-Mục tiêu:
+### Mục tiêu
 
 - Tiếp nhận yêu cầu nhanh chóng.
 - Phân loại đúng mức độ ảnh hưởng.
@@ -138,3 +138,4 @@ Truy cập **cổng hỗ trợ nội bộ** để tạo yêu cầu và theo dõi
 | :---: | :--- | :---: |
 | 1.0 | Khởi tạo tài liệu | 2026 |
 | 1.1 | Chuẩn hóa nội dung và định dạng Markdown | 2026 |
+| 1.2 | Bổ sung sơ đồ quy trình và chuẩn hóa bảng biểu | 2026 |
