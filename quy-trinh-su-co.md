@@ -51,7 +51,7 @@ Ghi nhận kết quả xử lý và đóng yêu cầu sau khi người dùng ho�
 
 ## 3. Sơ đồ quy trình
 
-![Sơ đồ quy trình tiếp nhận và xử lý sự cố](images/quy-trinh-su-co.png)
+![Sơ đồ quy trình tiếp nhận và xử lý sự cố](quy-trinh-su-co.png)
 
 > **Ghi chú:** Sơ đồ trên minh họa trình tự xử lý từ khi tiếp nhận yêu cầu đến khi hoàn tất sự cố.
 
